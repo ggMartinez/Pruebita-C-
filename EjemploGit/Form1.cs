@@ -16,5 +16,10 @@ namespace EjemploGit
         {
             InitializeComponent();
         }
+
+        private void Boton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Sape");
+        }
     }
 }
