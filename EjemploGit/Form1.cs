@@ -12,6 +12,7 @@ namespace EjemploGit
 {
     public partial class Form1 : Form
     {
+	private string nombre;
         public Form1()
         {
             InitializeComponent();
