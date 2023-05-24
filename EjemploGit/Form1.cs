@@ -19,7 +19,7 @@ namespace EjemploGit
 
         private void Boton_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Sape");
+            MessageBox.Show(textBox1.Text);
         }
     }
 }
