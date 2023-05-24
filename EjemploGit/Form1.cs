@@ -20,7 +20,8 @@ namespace EjemploGit
 
         private void Boton_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(textBox1.Text);
+	    //  Ja ja ja
+            Console.Write(nombre);
         }
     }
 }
